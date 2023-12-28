@@ -1,4 +1,4 @@
-# TODO-SList
+# TODO's_List
 It's a To-Do's List website that will keep track of your items, objectives as a list.
 There is two sections "Title" and "Description".
 "Title" will keep the name of your items/objectives.
